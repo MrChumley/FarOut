@@ -1,5 +1,5 @@
 # FarOut
-This is a Mod for Kerbal Space Program www.kerbalspaceprogram.com <br>
+This is a "Contract Pack" Mod for Kerbal Space Program www.kerbalspaceprogram.com <br>
 it adds several contracts to the carreer game that adds content for the planet packs Asclepius, and Kronkus.<br>
 Requires:<br>
 Kopernicus: http://forum.kerbalspaceprogram.com/threads/114649<br>
